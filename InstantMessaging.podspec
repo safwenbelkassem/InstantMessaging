@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   
   s.ios.deployment_target = '14.0'
 #  s.resources = "Assets/**/*"
-  s.source_files = 'InstantMessaging/**/**/*'
+  s.source_files = 'InstantMessaging/Sources/**/*.swift'
 #  s.resource_bundles = {
 #    'InstantMessaging' => ['InstantMessaging/Assets/*']
 #  }

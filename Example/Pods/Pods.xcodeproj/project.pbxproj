@@ -968,11 +968,7 @@
 		6A6D2D74187E85F40C29231D948CA1E7 /* InstantMessaging */ = {
 			isa = PBXGroup;
 			children = (
-				EE1AAC6629BF600700952438 /* Model */,
-				EE1AAC6529BF5BBF00952438 /* Utilities */,
-				EE1AAC4229BB407300952438 /* Extensions */,
-				EEB4E5EF29BA1519008EAEF1 /* Components */,
-				EEB4E5EE29BA1512008EAEF1 /* Screens */,
+				EE07CE5629C47133004866D3 /* Sources */,
 				27A4EC712D3640916FADD5C13041E9C0 /* Pod */,
 				B1B5B244BE9EC80E83902A76335EE826 /* Support Files */,
 				EEB4E61929BA2A43008EAEF1 /* Assets.xcassets */,
@@ -1083,6 +1079,18 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/Nimble-Snapshots";
+			sourceTree = "<group>";
+		};
+		EE07CE5629C47133004866D3 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				EE1AAC6629BF600700952438 /* Model */,
+				EE1AAC6529BF5BBF00952438 /* Utilities */,
+				EE1AAC4229BB407300952438 /* Extensions */,
+				EEB4E5EF29BA1519008EAEF1 /* Components */,
+				EEB4E5EE29BA1512008EAEF1 /* Screens */,
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		EE1AAC2229BB2DED00952438 /* Fonts */ = {
